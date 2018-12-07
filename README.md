@@ -13,5 +13,6 @@ Photo uploader app
 <h4>Also add nodemon to run the server without the need of refreshing</h4>
 <code>sudo npm install -g nodemon</code>
 <br>
+<br>
 <p>Run nodemon using below command:</p>
 <code>nodemon</code>
